@@ -8,6 +8,9 @@ contributor:
     deathdate: 1984
     gutenberg_agent_id: '52499'
     url: http://www.gutenberg.org/2009/agents/52499
+covers:
+- cover_type: archival
+  image_path: 63779-h/images/cover.jpg
 creator:
   author:
     agent_name: McDowell, Robert Emmett
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '52422'
     url: http://www.gutenberg.org/2009/agents/52422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63779#The-Blue-Venus
 gutenberg_issued: '2020-11-15'
 gutenberg_type: Text
 identifiers:
