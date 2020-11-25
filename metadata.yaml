@@ -1,0 +1,37 @@
+_repo: The-Blue-Venus_63779
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, C. A. (Cornelius Anthony)
+    alias: Murphy, Cornelius Anthony
+    birthdate: 1898
+    deathdate: 1984
+    gutenberg_agent_id: '52499'
+    url: http://www.gutenberg.org/2009/agents/52499
+creator:
+  author:
+    agent_name: McDowell, Robert Emmett
+    alias: McDowell, Emmett
+    birthdate: 1914
+    deathdate: 1975
+    gutenberg_agent_id: '52422'
+    url: http://www.gutenberg.org/2009/agents/52422
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Experiments -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Blue Venus
+url: http://www.gutenberg.org/ebooks/63779
